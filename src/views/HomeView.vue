@@ -3,8 +3,8 @@
     <div class="bg-blue h-20 bg-slate-500 lg:w-72">
       <ul ref="todoList" class="kanban-column h-10">
         <ListItem
-          v-for="(item, key) in todos"
-          :key="key"
+          v-for="item in todos"
+          :key="item.id"
           :name="item.name"
           v-model="item.amount"
           :primaryList="true"
@@ -23,7 +23,17 @@
         />
       </ul>
     </div>
-    {{ test }}
+    <div class="text-textColor">
+      Target xp:
+      <input
+        id="target-xp-input"
+        type="number"
+        class="w-16 bg-primary border-slate-700 border-2 rounded-md"
+        v-model="targetXP"
+        @input="updateValue()"
+      />
+    </div>
+    {{ test }} / {{ remainingXP }}
   </div>
 </template>
 
@@ -37,37 +47,35 @@ import { ref } from "vue";
 import _ from "lodash";
 import ListItem from "@/components/ListItem.vue";
 
-const doneItems = ref([
-  new Item(
-    "Test1",
-    new Category("Test", new Skill("ASD", "asd"), "YUB"),
-    "cvxcxv",
-    173,
-    2
-  ),
-]);
+const targetXP = ref(100);
+const remainingXP = ref(0);
+
+const doneItems = ref([]);
 
 const todoItems = ref([
   new Item(
+    2,
     "Test12",
-    new Category("Test", new Skill("ASD", "asd"), "YUB"),
+    new Category(1, "Test", new Skill(1, "ASD", "asd"), "YUB"),
     "cvxcxv",
     15,
-    1
+    0
   ),
   new Item(
+    3,
     "Test122",
-    new Category("Test", new Skill("ASD", "asd"), "YUB"),
+    new Category(1, "Test", new Skill(1, "ASD", "asd"), "YUB"),
     "cvxcxv",
-    176,
-    2
+    17,
+    0
   ),
   new Item(
+    4,
     "Test13",
-    new Category("Test", new Skill("ASD", "asd"), "YUB"),
+    new Category(1, "Test", new Skill(1, "ASD", "asd"), "YUB"),
     "cvxcxv",
-    57,
-    2
+    7,
+    0
   ),
 ]);
 
@@ -76,10 +84,42 @@ const [doneList, dones] = useDragAndDrop(doneItems, { group: "todoList" });
 
 const test = ref(0);
 
-function updateValue() {
-  console.log(doneItems.value);
+//TODO: Make this somehow better
+function testUpdateAmount() {
+  clearAmounts();
+  remainingXP.value = targetXP.value;
+  doneItems.value = _.orderBy(doneItems.value, (x) => x.xp, ["desc"]);
+  while (remainingXP.value > 0) {
+    let itemAdded = false;
+    for (const key in doneItems.value) {
+      if (remainingXP.value < 0) break;
+      if (remainingXP.value > doneItems.value[key].xp) {
+        doneItems.value[key].amount += 1;
+        remainingXP.value -= doneItems.value[key].xp;
+        itemAdded = true;
+      }
+      if (
+        remainingXP.value > 0 &&
+        doneItems.value[key].xp >= remainingXP.value
+      ) {
+        doneItems.value[key].amount += 1;
+        remainingXP.value -= doneItems.value[key].xp;
+        break;
+      }
+    }
+    if (!itemAdded) break;
+  }
+}
 
-  test.value = _.sumBy(doneItems.value, (x) => x.xp * x.amount);
+function clearAmounts() {
+  for (const key in doneItems.value) {
+    doneItems.value[key].amount = 0;
+  }
+}
+
+function updateValue() {
+  testUpdateAmount();
+  test.value = _.sumBy(doneItems.value, (x: Item) => x.xp * x.amount);
 }
 
 state.on("dragEnded", () => updateValue());

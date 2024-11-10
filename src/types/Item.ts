@@ -1,6 +1,7 @@
 import { Category } from "./Category";
 
 export class Item {
+  id: number;
   name: string;
   category: Category;
   description: string;
@@ -8,12 +9,14 @@ export class Item {
   amount: number;
 
   constructor(
+    id: number,
     name: string,
     category: Category,
     description: string,
     xp: number,
     amount: number
   ) {
+    this.id = id;
     this.name = name;
     this.category = category;
     this.description = description;
