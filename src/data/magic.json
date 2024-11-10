@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Low Alchemy",
+        "xp": 31,
+        "description": "Converts items into minor amount of gold",
+        "category": {
+            "id": 1,
+            "name": "Alt. Magic",
+            "description": "Alternative Magic (enchanting, alchemy, etc.)",
+            "skill": {
+                "id": 1,
+                "name": "Magic",
+                "description": "Magic, duh."
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "High Alchemy",
+        "description": "Converts items into major amount of gold",
+        "xp": 65,
+        "category": {
+            "id": 1,
+            "name": "Alt. Magic",
+            "description": "Alternative Magic (enchanting, alchemy, etc.)",
+            "skill": {
+                "id": 1,
+                "name": "Magic",
+                "description": "Magic, duh."
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Lvl. 1 Enchant",
+        "description": "Enchants item",
+        "xp": 17.5,
+        "category": {
+            "id": 1,
+            "name": "Alt. Magic",
+            "description": "Alternative Magic (enchanting, alchemy, etc.)",
+            "skill": {
+                "id": 1,
+                "name": "Magic",
+                "description": "Magic, duh."
+            }
+        }
+    }
+]

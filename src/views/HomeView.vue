@@ -34,6 +34,11 @@
       />
     </div>
     {{ test }} / {{ remainingXP }}
+    <select v-model="selected" @change="changeTargetXP()">
+      <option v-for="(item, key) in skillData" :key="key" :value="key">
+        {{ key }}
+      </option>
+    </select>
   </div>
 </template>
 
@@ -46,38 +51,21 @@ import { state } from "@formkit/drag-and-drop";
 import { ref } from "vue";
 import _ from "lodash";
 import ListItem from "@/components/ListItem.vue";
+import jsonData from "@/data/magic.json";
+import jsonSkillData from "@/data/skill.json";
 
 const targetXP = ref(100);
 const remainingXP = ref(0);
-
+const skillData = ref(jsonSkillData.default);
+const selected = ref();
 const doneItems = ref([]);
 
-const todoItems = ref([
-  new Item(
-    2,
-    "Test12",
-    new Category(1, "Test", new Skill(1, "ASD", "asd"), "YUB"),
-    "cvxcxv",
-    15,
-    0
-  ),
-  new Item(
-    3,
-    "Test122",
-    new Category(1, "Test", new Skill(1, "ASD", "asd"), "YUB"),
-    "cvxcxv",
-    17,
-    0
-  ),
-  new Item(
-    4,
-    "Test13",
-    new Category(1, "Test", new Skill(1, "ASD", "asd"), "YUB"),
-    "cvxcxv",
-    7,
-    0
-  ),
-]);
+const todoItems = ref(
+  jsonData.map(
+    (item: Item) =>
+      new Item(item.id, item.name, item.category, item.description, item.xp)
+  )
+);
 
 const [todoList, todos] = useDragAndDrop(todoItems, { group: "todoList" });
 const [doneList, dones] = useDragAndDrop(doneItems, { group: "todoList" });
@@ -122,5 +110,9 @@ function updateValue() {
   test.value = _.sumBy(doneItems.value, (x: Item) => x.xp * x.amount);
 }
 
+function changeTargetXP() {
+  targetXP.value = jsonSkillData.default[selected.value];
+  updateValue();
+}
 state.on("dragEnded", () => updateValue());
 </script>

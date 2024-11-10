@@ -13,14 +13,13 @@ export class Item {
     name: string,
     category: Category,
     description: string,
-    xp: number,
-    amount: number
+    xp: number
   ) {
     this.id = id;
     this.name = name;
     this.category = category;
     this.description = description;
     this.xp = xp;
-    this.amount = amount;
+    this.amount = 0;
   }
 }
