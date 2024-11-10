@@ -1,27 +1,26 @@
 <template>
-  <div class="container">
-    <div class="bg-blue h-20 bg-slate-500">
+  <div class="container justify-between flex">
+    <div class="bg-blue h-20 bg-slate-500 lg:w-72">
       <ul ref="todoList" class="kanban-column h-10">
-        <li v-for="(item, key) in todos" :key="key">
-          {{ item.name }} / {{ item.category.name }}
-          <input
-            type="number"
-            v-model.number="item.amount"
-            @input="updateValue()"
-          />
-        </li>
+        <ListItem
+          v-for="(item, key) in todos"
+          :key="key"
+          :name="item.name"
+          v-model="item.amount"
+          :primaryList="true"
+        />
       </ul>
     </div>
-    <div class="bg-blue h-20 bg-slate-200">
+    <div class="bg-blue h-20 bg-slate-300 lg:w-72">
       <ul ref="doneList" class="kanban-column h-10">
-        <li v-for="(item, key) in dones" :key="key">
-          {{ item.name }} / {{ item.category.name }}
-          <input
-            type="number"
-            v-model.number="item.amount"
-            @input="updateValue()"
-          />
-        </li>
+        <ListItem
+          v-for="(item, key) in dones"
+          :key="key"
+          :name="item.name"
+          v-model="item.amount"
+          v-on:update:modelValue="updateValue()"
+          :primaryList="false"
+        />
       </ul>
     </div>
     {{ test }}
@@ -36,13 +35,14 @@ import { useDragAndDrop } from "@formkit/drag-and-drop/vue";
 import { state } from "@formkit/drag-and-drop";
 import { ref } from "vue";
 import _ from "lodash";
+import ListItem from "@/components/ListItem.vue";
 
 const doneItems = ref([
   new Item(
     "Test1",
     new Category("Test", new Skill("ASD", "asd"), "YUB"),
     "cvxcxv",
-    15,
+    173,
     2
   ),
 ]);
@@ -54,6 +54,20 @@ const todoItems = ref([
     "cvxcxv",
     15,
     1
+  ),
+  new Item(
+    "Test122",
+    new Category("Test", new Skill("ASD", "asd"), "YUB"),
+    "cvxcxv",
+    176,
+    2
+  ),
+  new Item(
+    "Test13",
+    new Category("Test", new Skill("ASD", "asd"), "YUB"),
+    "cvxcxv",
+    57,
+    2
   ),
 ]);
 
