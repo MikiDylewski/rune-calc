@@ -39,6 +39,11 @@
         {{ key }}
       </option>
     </select>
+    <select v-model="selected2" @change="changeTargetXP()">
+      <option v-for="(item, key) in skillData" :key="key" :value="key">
+        {{ key }}
+      </option>
+    </select>
   </div>
 </template>
 
@@ -58,6 +63,7 @@ const targetXP = ref(100);
 const remainingXP = ref(0);
 const skillData = ref(jsonSkillData.default);
 const selected = ref();
+const selected2 = ref();
 const doneItems = ref([]);
 
 const todoItems = ref(
@@ -111,7 +117,9 @@ function updateValue() {
 }
 
 function changeTargetXP() {
-  targetXP.value = jsonSkillData.default[selected.value];
+  targetXP.value =
+    jsonSkillData.default[selected.value] -
+    jsonSkillData.default[selected2.value];
   updateValue();
 }
 state.on("dragEnded", () => updateValue());
