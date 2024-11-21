@@ -10,6 +10,9 @@ module.exports = {
         textColor: "#FCFAF9",
         extra: "#830A48",
       },
+      height: {
+        calcContent: "calc(100% - 3.5rem)",
+      },
     },
   },
   plugins: [],

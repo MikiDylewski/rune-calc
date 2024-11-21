@@ -3,6 +3,7 @@
         "id": 1,
         "name": "Low Alchemy",
         "xp": 31,
+        "level": 21,
         "description": "Converts items into minor amount of gold",
         "category": {
             "id": 1,
@@ -20,6 +21,7 @@
         "name": "High Alchemy",
         "description": "Converts items into major amount of gold",
         "xp": 65,
+        "level": 55,
         "category": {
             "id": 1,
             "name": "Alt. Magic",
@@ -36,6 +38,7 @@
         "name": "Lvl. 1 Enchant",
         "description": "Enchants item",
         "xp": 17.5,
+        "level": 11,
         "category": {
             "id": 1,
             "name": "Alt. Magic",

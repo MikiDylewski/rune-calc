@@ -1,0 +1,1469 @@
+[
+    {
+        "id": 1,
+        "name": "Concentrated alloy bar",
+        "isMember": true,
+        "skills": {
+            "Smithing": 99.0
+        },
+        "experience": {
+            "Smithing": 10.0
+        }
+    },
+    {
+        "id": 2,
+        "name": "Elder rune bar",
+        "isMember": true,
+        "skills": {
+            "Smithing": 90.0
+        },
+        "experience": {
+            "Smithing": 26.0
+        }
+    },
+    {
+        "id": 3,
+        "name": "Junk refiner",
+        "isMember": true,
+        "skills": {
+            "Invention": 22.0,
+            "Smithing": 0
+        },
+        "experience": {
+            "Smithing": 100.0
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kinetic cyclone",
+        "isMember": true,
+        "skills": {
+            "Invention": 70.0,
+            "Smithing": 0
+        },
+        "experience": {
+            "Smithing": 400.0
+        }
+    },
+    {
+        "id": 5,
+        "name": "Off-hand rune knife",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 6,
+        "name": "Off-hand rune throwing axe",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 7,
+        "name": "Oldak coil",
+        "isMember": true,
+        "skills": {
+            "Invention": 70.0,
+            "Smithing": 0
+        },
+        "experience": {
+            "Smithing": 250.0
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rune 2h sword",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 9,
+        "name": "Rune 2h sword + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 10,
+        "name": "Rune 2h sword + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 11,
+        "name": "Rune 2h sword + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 3840.0
+        }
+    },
+    {
+        "id": 12,
+        "name": "Rune armoured boots",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 13,
+        "name": "Rune armoured boots + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 14,
+        "name": "Rune armoured boots + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 15,
+        "name": "Rune armoured boots + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 16,
+        "name": "Rune arrowheads",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 17,
+        "name": "Rune battleaxe",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 18,
+        "name": "Rune battleaxe + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 19,
+        "name": "Rune battleaxe + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 20,
+        "name": "Rune battleaxe + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 21,
+        "name": "Rune bolts (unf)",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 22,
+        "name": "Rune chainbody",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1200.0
+        }
+    },
+    {
+        "id": 23,
+        "name": "Rune chainbody + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1200.0
+        }
+    },
+    {
+        "id": 24,
+        "name": "Rune chainbody + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 2400.0
+        }
+    },
+    {
+        "id": 25,
+        "name": "Rune chainbody + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 4800.0
+        }
+    },
+    {
+        "id": 26,
+        "name": "Rune claws",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 27,
+        "name": "Rune claws + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 28,
+        "name": "Rune claws + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 29,
+        "name": "Rune claws + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 30,
+        "name": "Rune dagger",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 31,
+        "name": "Rune dagger + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 32,
+        "name": "Rune dagger + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 33,
+        "name": "Rune dagger + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 34,
+        "name": "Rune dart tip",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 35,
+        "name": "Rune full helm",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 36,
+        "name": "Rune full helm + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 37,
+        "name": "Rune full helm + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 38,
+        "name": "Rune full helm + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 39,
+        "name": "Rune gauntlets",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 40,
+        "name": "Rune gauntlets + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 41,
+        "name": "Rune gauntlets + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 42,
+        "name": "Rune gauntlets + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 43,
+        "name": "Rune hasta",
+        "isMember": true,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 150.0
+        }
+    },
+    {
+        "id": 44,
+        "name": "Rune hatchet",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 45,
+        "name": "Rune kiteshield",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 46,
+        "name": "Rune kiteshield + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 47,
+        "name": "Rune kiteshield + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 48,
+        "name": "Rune kiteshield + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 49,
+        "name": "Rune knife",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 50,
+        "name": "Rune limbs",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 51,
+        "name": "Rune longsword",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 52,
+        "name": "Rune longsword + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 53,
+        "name": "Rune longsword + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 54,
+        "name": "Rune longsword + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 55,
+        "name": "Rune mace",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 56,
+        "name": "Rune mace + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 57,
+        "name": "Rune mace + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 58,
+        "name": "Rune mace + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 59,
+        "name": "Rune mattock",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 60,
+        "name": "Rune med helm",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 61,
+        "name": "Rune med helm + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 62,
+        "name": "Rune med helm + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 63,
+        "name": "Rune med helm + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 64,
+        "name": "Rune minotaur pouch",
+        "isMember": true,
+        "skills": {
+            "Summoning": 86.0
+        },
+        "experience": {
+            "Summoning": 756.8
+        }
+    },
+    {
+        "id": 65,
+        "name": "Rune nails",
+        "isMember": true,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 66,
+        "name": "Rune off hand battleaxe",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 67,
+        "name": "Rune off hand battleaxe + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 68,
+        "name": "Rune off hand battleaxe + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 69,
+        "name": "Rune off hand battleaxe + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 70,
+        "name": "Rune off hand claws",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 71,
+        "name": "Rune off hand claws + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 72,
+        "name": "Rune off hand claws + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 73,
+        "name": "Rune off hand claws + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 74,
+        "name": "Rune off hand dagger",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 75,
+        "name": "Rune off hand dagger + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 76,
+        "name": "Rune off hand dagger + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 77,
+        "name": "Rune off hand dagger + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 78,
+        "name": "Rune off hand longsword",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 79,
+        "name": "Rune off hand longsword + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 80,
+        "name": "Rune off hand longsword + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 81,
+        "name": "Rune off hand longsword + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 82,
+        "name": "Rune off hand mace",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 83,
+        "name": "Rune off hand mace + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 84,
+        "name": "Rune off hand mace + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 85,
+        "name": "Rune off hand mace + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 86,
+        "name": "Rune off hand scimitar",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 87,
+        "name": "Rune off hand scimitar + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 88,
+        "name": "Rune off hand scimitar + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 89,
+        "name": "Rune off hand scimitar + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 90,
+        "name": "Rune off hand sword",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 91,
+        "name": "Rune off hand sword + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 92,
+        "name": "Rune off hand sword + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 93,
+        "name": "Rune off hand sword + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 94,
+        "name": "Rune off hand warhammer",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 95,
+        "name": "Rune off hand warhammer + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 96,
+        "name": "Rune off hand warhammer + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 97,
+        "name": "Rune off hand warhammer + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 98,
+        "name": "Rune ore box",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 99,
+        "name": "Rune pickaxe",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 100,
+        "name": "Rune pickaxe + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 101,
+        "name": "Rune pickaxe + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 102,
+        "name": "Rune pickaxe + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 103,
+        "name": "Rune platebody",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1200.0
+        }
+    },
+    {
+        "id": 104,
+        "name": "Rune platebody + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1200.0
+        }
+    },
+    {
+        "id": 105,
+        "name": "Rune platebody + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 2400.0
+        }
+    },
+    {
+        "id": 106,
+        "name": "Rune platebody + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 4800.0
+        }
+    },
+    {
+        "id": 107,
+        "name": "Rune platelegs",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 720.0
+        }
+    },
+    {
+        "id": 108,
+        "name": "Rune platelegs + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 720.0
+        }
+    },
+    {
+        "id": 109,
+        "name": "Rune platelegs + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1440.0
+        }
+    },
+    {
+        "id": 110,
+        "name": "Rune platelegs + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 2880.0
+        }
+    },
+    {
+        "id": 111,
+        "name": "Rune plateskirt",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 720.0
+        }
+    },
+    {
+        "id": 112,
+        "name": "Rune plateskirt + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 720.0
+        }
+    },
+    {
+        "id": 113,
+        "name": "Rune plateskirt + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1440.0
+        }
+    },
+    {
+        "id": 114,
+        "name": "Rune plateskirt + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 2880.0
+        }
+    },
+    {
+        "id": 115,
+        "name": "Rune scimitar",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 116,
+        "name": "Rune scimitar + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 117,
+        "name": "Rune scimitar + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 118,
+        "name": "Rune scimitar + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 119,
+        "name": "Rune spear",
+        "isMember": true,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 150.0
+        }
+    },
+    {
+        "id": 120,
+        "name": "Rune square shield",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 121,
+        "name": "Rune square shield + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 122,
+        "name": "Rune square shield + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 123,
+        "name": "Rune square shield + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 124,
+        "name": "Rune sword",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 125,
+        "name": "Rune sword + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 126,
+        "name": "Rune sword + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 127,
+        "name": "Rune sword + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 128,
+        "name": "Rune throwing axe",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 240.0
+        }
+    },
+    {
+        "id": 129,
+        "name": "Rune warhammer",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 130,
+        "name": "Rune warhammer + 1",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 480.0
+        }
+    },
+    {
+        "id": 131,
+        "name": "Rune warhammer + 2",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 960.0
+        }
+    },
+    {
+        "id": 132,
+        "name": "Rune warhammer + 3",
+        "isMember": false,
+        "skills": {
+            "Smithing": 50.0
+        },
+        "experience": {
+            "Smithing": 1920.0
+        }
+    },
+    {
+        "id": 133,
+        "name": "Unensouled bar",
+        "isMember": true,
+        "skills": {
+            "Smithing": 1.0,
+            "Necromancy": 60.0
+        },
+        "experience": {
+            "Necromancy": 0.0
+        }
+    }
+]

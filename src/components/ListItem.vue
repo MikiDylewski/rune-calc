@@ -1,13 +1,16 @@
 <template>
   <li
-    class="lg:w-72 bg-secondary rounded-md text-textColor border-2 border-slate-700 my-1 list-none"
+    class="lg:w-80 bg-secondary rounded-md text-textColor border-2 border-slate-700 my-1 list-none m-auto"
   >
-    <div class="p-2 flex flex-auto flex-row flex-nowrap justify-between w-full">
+    <div class="p-2 flex flex-auto flex-row flex-nowrap w-full">
+      <span v-if="currentLevel < requiredLevel" class="w-1 text-red-500"
+        >X</span
+      >
       <span class="px-2">{{ name }}</span>
       <input
         id="list-item-input"
         v-if="!primaryList"
-        class="w-16 bg-primary border-slate-700 border-2 rounded-md"
+        class="w-16 bg-primary border-slate-700 border-2 rounded-md ml-auto"
         type="number"
         placeholder="1"
         :value="modelValue"
@@ -18,5 +21,11 @@
 </template>
 <script lang="ts" setup>
 import { defineProps } from "vue";
-const props = defineProps(["modelValue", "name", "primaryList"]);
+const props = defineProps([
+  "modelValue",
+  "name",
+  "primaryList",
+  "currentLevel",
+  "requiredLevel",
+]);
 </script>
