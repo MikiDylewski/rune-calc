@@ -1,11 +1,9 @@
 <template>
   <li
-    class="lg:w-80 bg-secondary rounded-md text-textColor border-2 border-slate-700 my-1 list-none m-auto"
+    class="lg:w-full bg-secondary rounded-md text-textColor border-2 border-slate-700 my-1 list-none m-auto"
+    :class="hasRequiredLevel"
   >
     <div class="p-2 flex flex-auto flex-row flex-nowrap w-full">
-      <span v-if="currentLevel < requiredLevel" class="w-1 text-red-500"
-        >X</span
-      >
       <span class="px-2">{{ name }}</span>
       <input
         id="list-item-input"
@@ -20,7 +18,7 @@
   </li>
 </template>
 <script lang="ts" setup>
-import { defineProps } from "vue";
+import { defineProps, computed } from "vue";
 const props = defineProps([
   "modelValue",
   "name",
@@ -28,4 +26,9 @@ const props = defineProps([
   "currentLevel",
   "requiredLevel",
 ]);
+const hasRequiredLevel = computed(() => {
+  return props.currentLevel >= props.requiredLevel
+    ? ""
+    : "shadow-inner shadow-red-800/90";
+});
 </script>
