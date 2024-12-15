@@ -1467,5 +1467,4523 @@
                 "Necromancy": 0.0
             }
         }
+    ],
+    "bronze": [
+        {
+            "id": 1,
+            "name": "Bronze 2h sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 60.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bronze Dominion medal",
+            "isMember": true,
+            "skills": {
+                "Archaeology": 69.0
+            },
+            "experience": {
+                "Archaeology": 4433.3
+            }
+        },
+        {
+            "id": 3,
+            "name": "Bronze armoured boots",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Bronze arrowheads",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Bronze battleaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 6,
+            "name": "Bronze bolts (unf)",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Bronze chainbody",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 75.0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Bronze claws",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 9,
+            "name": "Bronze dagger",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Bronze dart tip",
+            "isMember": false,
+            "skills": {
+                "Smithing": 20.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Bronze full helm",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Bronze gauntlets",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Bronze hasta",
+            "isMember": true,
+            "skills": {
+                "Smithing": 5.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Bronze hatchet",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Bronze kiteshield",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Bronze knife",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Bronze limbs",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Bronze longsword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Bronze mace",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Bronze mattock",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Bronze med helm",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Bronze minotaur pouch",
+            "isMember": true,
+            "skills": {
+                "Summoning": 36.0
+            },
+            "experience": {
+                "Summoning": 316.8
+            }
+        },
+        {
+            "id": 23,
+            "name": "Bronze nails",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Bronze off hand battleaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Bronze off hand claws",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Bronze off hand dagger",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 27,
+            "name": "Bronze off hand longsword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Bronze off hand mace",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Bronze off hand scimitar",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Bronze off hand sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 31,
+            "name": "Bronze off hand warhammer",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 32,
+            "name": "Bronze ore box",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 33,
+            "name": "Bronze pickaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 34,
+            "name": "Bronze platebody",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 75.0
+            }
+        },
+        {
+            "id": 35,
+            "name": "Bronze platelegs",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 36,
+            "name": "Bronze plateskirt",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 37,
+            "name": "Bronze scimitar",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 38,
+            "name": "Bronze spear",
+            "isMember": true,
+            "skills": {
+                "Smithing": 5.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 39,
+            "name": "Bronze square shield",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 40,
+            "name": "Bronze sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 41,
+            "name": "Bronze throwing axe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 42,
+            "name": "Bronze warhammer",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 30.0
+            }
+        },
+        {
+            "id": 43,
+            "name": "Bronze wire",
+            "isMember": true,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 44,
+            "name": "Cannon part",
+            "isMember": false,
+            "skills": {
+                "Smithing": 18.0
+            },
+            "experience": {
+                "Smithing": 25.0
+            }
+        },
+        {
+            "id": 45,
+            "name": "Concentrated alloy bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 99.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        },
+        {
+            "id": 46,
+            "name": "Lesser unensouled bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 1.0,
+                "Necromancy": 20.0
+            },
+            "experience": {
+                "Smithing": 1.0,
+                "Necromancy": 0.0
+            }
+        },
+        {
+            "id": 47,
+            "name": "Mermaid hunter suit",
+            "isMember": true,
+            "skills": {
+                "Construction": 72.0
+            },
+            "experience": {
+                "Construction": 107.0
+            }
+        },
+        {
+            "id": 48,
+            "name": "Off-hand bronze knife",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 49,
+            "name": "Off-hand bronze throwing axe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 1.0
+            },
+            "experience": {
+                "Smithing": 15.0
+            }
+        },
+        {
+            "id": 50,
+            "name": "Oyster hunter suit",
+            "isMember": true,
+            "skills": {
+                "Construction": 63.0
+            },
+            "experience": {
+                "Construction": 7.0
+            }
+        },
+        {
+            "id": 51,
+            "name": "Prototype dart tip",
+            "isMember": true,
+            "skills": {
+                "Smithing": 20.0
+            },
+            "experience": {}
+        },
+        {
+            "id": 52,
+            "name": "Salvage hunter suit",
+            "isMember": true,
+            "skills": {
+                "Construction": 80.0
+            },
+            "experience": {
+                "Construction": 17.0
+            }
+        },
+        {
+            "id": 53,
+            "name": "Water filtration system",
+            "isMember": true,
+            "skills": {
+                "Construction": 20.0
+            },
+            "experience": {}
+        }
+    ],
+    "orikalkum": [
+        {
+            "id": 1,
+            "name": "Concentrated alloy bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 99.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Orikalkum 2h warhammer",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 3,
+            "name": "Orikalkum 2h warhammer + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Orikalkum 2h warhammer + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Orikalkum 2h warhammer + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 6,
+            "name": "Orikalkum armoured boots",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 350.0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Orikalkum armoured boots + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 350.0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Orikalkum armoured boots + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 9,
+            "name": "Orikalkum armoured boots + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Orikalkum full helm",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Orikalkum full helm + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Orikalkum full helm + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Orikalkum full helm + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Orikalkum gauntlets",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 350.0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Orikalkum gauntlets + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 350.0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Orikalkum gauntlets + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Orikalkum gauntlets + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Orikalkum kiteshield",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Orikalkum kiteshield + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Orikalkum kiteshield + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Orikalkum kiteshield + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Orikalkum mattock",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 23,
+            "name": "Orikalkum off hand warhammer",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Orikalkum off hand warhammer + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Orikalkum off hand warhammer + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Orikalkum off hand warhammer + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 27,
+            "name": "Orikalkum ore box",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Orikalkum pickaxe",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Orikalkum pickaxe + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Orikalkum pickaxe + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 31,
+            "name": "Orikalkum pickaxe + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 32,
+            "name": "Orikalkum platebody",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1750.0
+            }
+        },
+        {
+            "id": 33,
+            "name": "Orikalkum platebody + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1750.0
+            }
+        },
+        {
+            "id": 34,
+            "name": "Orikalkum platebody + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 3500.0
+            }
+        },
+        {
+            "id": 35,
+            "name": "Orikalkum platebody + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 7000.0
+            }
+        },
+        {
+            "id": 36,
+            "name": "Orikalkum platelegs",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1050.0
+            }
+        },
+        {
+            "id": 37,
+            "name": "Orikalkum platelegs + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1050.0
+            }
+        },
+        {
+            "id": 38,
+            "name": "Orikalkum platelegs + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2100.0
+            }
+        },
+        {
+            "id": 39,
+            "name": "Orikalkum platelegs + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 4200.0
+            }
+        },
+        {
+            "id": 40,
+            "name": "Orikalkum warhammer",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 41,
+            "name": "Orikalkum warhammer + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 42,
+            "name": "Orikalkum warhammer + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 43,
+            "name": "Orikalkum warhammer + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 60.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 44,
+            "name": "Unensouled bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 1.0,
+                "Necromancy": 60.0
+            },
+            "experience": {
+                "Smithing": 2.0,
+                "Necromancy": 0.0
+            }
+        }
+    ],
+    "primal": [
+        {
+            "id": 1,
+            "name": "Masterwork sword trim",
+            "isMember": true,
+            "skills": {
+                "Smithing": 110.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Primal 2h sword",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 3,
+            "name": "Primal 2h sword + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Primal 2h sword + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 11200.0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Primal 2h sword + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 22400.0
+            }
+        },
+        {
+            "id": 6,
+            "name": "Primal 2h sword + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 44800.0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Primal 2h sword + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 89600.0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Primal armour spikes",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 700.0
+            }
+        },
+        {
+            "id": 9,
+            "name": "Primal armoured boots",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Primal armoured boots + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Primal armoured boots + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Primal armoured boots + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Primal armoured boots + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 11200.0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Primal armoured boots + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 22400.0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Primal full helm",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Primal full helm + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Primal full helm + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Primal full helm + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 11200.0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Primal full helm + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 22400.0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Primal full helm + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 44800.0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Primal gauntlets",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Primal gauntlets + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 1400.0
+            }
+        },
+        {
+            "id": 23,
+            "name": "Primal gauntlets + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Primal gauntlets + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Primal gauntlets + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 11200.0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Primal gauntlets + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 22400.0
+            }
+        },
+        {
+            "id": 27,
+            "name": "Primal kiteshield",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Primal kiteshield + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Primal kiteshield + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Primal kiteshield + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 11200.0
+            }
+        },
+        {
+            "id": 31,
+            "name": "Primal kiteshield + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 22400.0
+            }
+        },
+        {
+            "id": 32,
+            "name": "Primal kiteshield + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 44800.0
+            }
+        },
+        {
+            "id": 33,
+            "name": "Primal ore box",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 34,
+            "name": "Primal pickaxe",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 35,
+            "name": "Primal pickaxe + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 2800.0
+            }
+        },
+        {
+            "id": 36,
+            "name": "Primal pickaxe + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 5600.0
+            }
+        },
+        {
+            "id": 37,
+            "name": "Primal pickaxe + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 11200.0
+            }
+        },
+        {
+            "id": 38,
+            "name": "Primal pickaxe + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 22400.0
+            }
+        },
+        {
+            "id": 39,
+            "name": "Primal pickaxe + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 44800.0
+            }
+        },
+        {
+            "id": 40,
+            "name": "Primal platebody",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 7000.0
+            }
+        },
+        {
+            "id": 41,
+            "name": "Primal platebody + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 7000.0
+            }
+        },
+        {
+            "id": 42,
+            "name": "Primal platebody + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 14000.0
+            }
+        },
+        {
+            "id": 43,
+            "name": "Primal platebody + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 28000.0
+            }
+        },
+        {
+            "id": 44,
+            "name": "Primal platebody + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 56000.0
+            }
+        },
+        {
+            "id": 45,
+            "name": "Primal platebody + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 112000.0
+            }
+        },
+        {
+            "id": 46,
+            "name": "Primal platelegs",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 4200.0
+            }
+        },
+        {
+            "id": 47,
+            "name": "Primal platelegs + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 4200.0
+            }
+        },
+        {
+            "id": 48,
+            "name": "Primal platelegs + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 8400.0
+            }
+        },
+        {
+            "id": 49,
+            "name": "Primal platelegs + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 16800.0
+            }
+        },
+        {
+            "id": 50,
+            "name": "Primal platelegs + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 33600.0
+            }
+        },
+        {
+            "id": 51,
+            "name": "Primal platelegs + 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 100.0
+            },
+            "experience": {
+                "Smithing": 67200.0
+            }
+        },
+        {
+            "id": 52,
+            "name": "Primed glorious bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 110.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        }
+    ],
+    "necronium": [
+        {
+            "id": 1,
+            "name": "Concentrated alloy bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 99.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Enhanced gloves of passage",
+            "isMember": true,
+            "skills": {
+                "Smithing": 90.0
+            },
+            "experience": {
+                "Smithing": 5000.0
+            }
+        },
+        {
+            "id": 3,
+            "name": "Greater unensouled bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 1.0,
+                "Necromancy": 80.0
+            },
+            "experience": {
+                "Smithing": 3.0,
+                "Necromancy": 0.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Necronium 2h greataxe",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Necronium 2h greataxe + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 6,
+            "name": "Necronium 2h greataxe + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Necronium 2h greataxe + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 8000.0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Necronium 2h greataxe + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 16000.0
+            }
+        },
+        {
+            "id": 9,
+            "name": "Necronium armoured boots",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 500.0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Necronium armoured boots + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 500.0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Necronium armoured boots + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Necronium armoured boots + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Necronium armoured boots + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Necronium battleaxe",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Necronium battleaxe + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Necronium battleaxe + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Necronium battleaxe + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Necronium battleaxe + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 8000.0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Necronium full helm",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Necronium full helm + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Necronium full helm + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Necronium full helm + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 23,
+            "name": "Necronium full helm + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 8000.0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Necronium gauntlets",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 500.0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Necronium gauntlets + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 500.0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Necronium gauntlets + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 27,
+            "name": "Necronium gauntlets + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Necronium gauntlets + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Necronium kiteshield",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Necronium kiteshield + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 31,
+            "name": "Necronium kiteshield + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 32,
+            "name": "Necronium kiteshield + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 33,
+            "name": "Necronium kiteshield + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 8000.0
+            }
+        },
+        {
+            "id": 34,
+            "name": "Necronium mattock",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 35,
+            "name": "Necronium off hand battleaxe",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 36,
+            "name": "Necronium off hand battleaxe + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 37,
+            "name": "Necronium off hand battleaxe + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 38,
+            "name": "Necronium off hand battleaxe + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 39,
+            "name": "Necronium off hand battleaxe + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 8000.0
+            }
+        },
+        {
+            "id": 40,
+            "name": "Necronium ore box",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 41,
+            "name": "Necronium pickaxe",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 42,
+            "name": "Necronium pickaxe + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1000.0
+            }
+        },
+        {
+            "id": 43,
+            "name": "Necronium pickaxe + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2000.0
+            }
+        },
+        {
+            "id": 44,
+            "name": "Necronium pickaxe + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 4000.0
+            }
+        },
+        {
+            "id": 45,
+            "name": "Necronium pickaxe + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 8000.0
+            }
+        },
+        {
+            "id": 46,
+            "name": "Necronium platebody",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2500.0
+            }
+        },
+        {
+            "id": 47,
+            "name": "Necronium platebody + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 2500.0
+            }
+        },
+        {
+            "id": 48,
+            "name": "Necronium platebody + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 5000.0
+            }
+        },
+        {
+            "id": 49,
+            "name": "Necronium platebody + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 10000.0
+            }
+        },
+        {
+            "id": 50,
+            "name": "Necronium platebody + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 20000.0
+            }
+        },
+        {
+            "id": 51,
+            "name": "Necronium platelegs",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1500.0
+            }
+        },
+        {
+            "id": 52,
+            "name": "Necronium platelegs + 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 1500.0
+            }
+        },
+        {
+            "id": 53,
+            "name": "Necronium platelegs + 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 3000.0
+            }
+        },
+        {
+            "id": 54,
+            "name": "Necronium platelegs + 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 6000.0
+            }
+        },
+        {
+            "id": 55,
+            "name": "Necronium platelegs + 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 12000.0
+            }
+        }
+    ],
+    "mithril": [
+        {
+            "id": 1,
+            "name": "Blisterwood stake-thrower crossbow",
+            "isMember": true,
+            "skills": {
+                "Fletching": 70.0,
+                "Crafting": 70.0
+            },
+            "experience": {
+                "Fletching": 150.0,
+                "Crafting": 100.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Blisterwood stake-thrower crossbow (u)",
+            "isMember": true,
+            "skills": {
+                "Fletching": 70.0,
+                "Crafting": 70.0
+            },
+            "experience": {
+                "Fletching": 100.0,
+                "Crafting": 100.0
+            }
+        },
+        {
+            "id": 3,
+            "name": "Concentrated alloy bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 99.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Dragon-mithril key",
+            "isMember": true,
+            "skills": {},
+            "experience": {}
+        },
+        {
+            "id": 5,
+            "name": "Dummy (item)",
+            "isMember": true,
+            "skills": {
+                "Construction": 68.0,
+                "Crafting": 67.0,
+                "Smithing": 68.0
+            },
+            "experience": {}
+        },
+        {
+            "id": 6,
+            "name": "Enhanced grappling hook",
+            "isMember": true,
+            "skills": {
+                "Fletching": 54.0
+            },
+            "experience": {
+                "Fletching": 0.0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Glorious silvthril chain",
+            "isMember": true,
+            "skills": {
+                "Crafting": 90.0
+            },
+            "experience": {
+                "Crafting": 1000.0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Keldagrim key 1",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 0.0
+            }
+        },
+        {
+            "id": 9,
+            "name": "Keldagrim key 2",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 0.0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Keldagrim key 3",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 0.0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Keldagrim key 4",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 0.0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Keldagrim key 5",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 0.0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Keldagrim key 6",
+            "isMember": true,
+            "skills": {
+                "Smithing": 70.0
+            },
+            "experience": {
+                "Smithing": 0.0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Mithril 2h sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Mithril 2h sword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Mithril 2h sword + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 960.0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Mithril armoured boots",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Mithril armoured boots + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Mithril armoured boots + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Mithril arrowheads",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Mithril battleaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Mithril battleaxe + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 23,
+            "name": "Mithril battleaxe + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Mithril bolts (unf)",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Mithril chainbody",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 600.0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Mithril chainbody + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 600.0
+            }
+        },
+        {
+            "id": 27,
+            "name": "Mithril chainbody + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 1200.0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Mithril claws",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Mithril claws + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Mithril claws + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 31,
+            "name": "Mithril dagger",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 32,
+            "name": "Mithril dagger + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 33,
+            "name": "Mithril dagger + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 34,
+            "name": "Mithril dart tip",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 35,
+            "name": "Mithril full helm",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 36,
+            "name": "Mithril full helm + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 37,
+            "name": "Mithril full helm + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 38,
+            "name": "Mithril gauntlets",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 39,
+            "name": "Mithril gauntlets + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 40,
+            "name": "Mithril gauntlets + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 41,
+            "name": "Mithril grapple tip",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 42,
+            "name": "Mithril hasta",
+            "isMember": true,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 100.0
+            }
+        },
+        {
+            "id": 43,
+            "name": "Mithril hatchet",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 50.0
+            }
+        },
+        {
+            "id": 44,
+            "name": "Mithril kiteshield",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 45,
+            "name": "Mithril kiteshield + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 46,
+            "name": "Mithril kiteshield + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 47,
+            "name": "Mithril knife",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 48,
+            "name": "Mithril limbs",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 49,
+            "name": "Mithril longsword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 50,
+            "name": "Mithril longsword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 51,
+            "name": "Mithril longsword + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 52,
+            "name": "Mithril mace",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 53,
+            "name": "Mithril mace + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 54,
+            "name": "Mithril mace + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 55,
+            "name": "Mithril mattock",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 56,
+            "name": "Mithril med helm",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 57,
+            "name": "Mithril med helm + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 58,
+            "name": "Mithril med helm + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 59,
+            "name": "Mithril minotaur pouch",
+            "isMember": true,
+            "skills": {
+                "Summoning": 66.0
+            },
+            "experience": {
+                "Summoning": 580.8
+            }
+        },
+        {
+            "id": 60,
+            "name": "Mithril nails",
+            "isMember": true,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 61,
+            "name": "Mithril off hand battleaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 62,
+            "name": "Mithril off hand battleaxe + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 63,
+            "name": "Mithril off hand battleaxe + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 64,
+            "name": "Mithril off hand claws",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 65,
+            "name": "Mithril off hand claws + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 66,
+            "name": "Mithril off hand claws + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 67,
+            "name": "Mithril off hand dagger",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 68,
+            "name": "Mithril off hand dagger + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 69,
+            "name": "Mithril off hand dagger + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 70,
+            "name": "Mithril off hand longsword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 71,
+            "name": "Mithril off hand longsword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 72,
+            "name": "Mithril off hand longsword + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 73,
+            "name": "Mithril off hand mace",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 74,
+            "name": "Mithril off hand mace + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 75,
+            "name": "Mithril off hand mace + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 76,
+            "name": "Mithril off hand scimitar",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 77,
+            "name": "Mithril off hand scimitar + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 78,
+            "name": "Mithril off hand scimitar + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 79,
+            "name": "Mithril off hand sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 80,
+            "name": "Mithril off hand sword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 81,
+            "name": "Mithril off hand sword + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 82,
+            "name": "Mithril off hand warhammer",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 83,
+            "name": "Mithril off hand warhammer + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 84,
+            "name": "Mithril off hand warhammer + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 85,
+            "name": "Mithril ore box",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 86,
+            "name": "Mithril pickaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 87,
+            "name": "Mithril pickaxe + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 88,
+            "name": "Mithril pickaxe + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 89,
+            "name": "Mithril platebody",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 600.0
+            }
+        },
+        {
+            "id": 90,
+            "name": "Mithril platebody + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 600.0
+            }
+        },
+        {
+            "id": 91,
+            "name": "Mithril platebody + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 1200.0
+            }
+        },
+        {
+            "id": 92,
+            "name": "Mithril platelegs",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 360.0
+            }
+        },
+        {
+            "id": 93,
+            "name": "Mithril platelegs + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 360.0
+            }
+        },
+        {
+            "id": 94,
+            "name": "Mithril platelegs + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 720.0
+            }
+        },
+        {
+            "id": 95,
+            "name": "Mithril plateskirt",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 360.0
+            }
+        },
+        {
+            "id": 96,
+            "name": "Mithril plateskirt + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 360.0
+            }
+        },
+        {
+            "id": 97,
+            "name": "Mithril plateskirt + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 720.0
+            }
+        },
+        {
+            "id": 98,
+            "name": "Mithril scimitar",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 99,
+            "name": "Mithril scimitar + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 100,
+            "name": "Mithril scimitar + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 101,
+            "name": "Mithril spear",
+            "isMember": true,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 100.0
+            }
+        },
+        {
+            "id": 102,
+            "name": "Mithril square shield",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 103,
+            "name": "Mithril square shield + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 104,
+            "name": "Mithril square shield + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 105,
+            "name": "Mithril sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 106,
+            "name": "Mithril sword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 107,
+            "name": "Mithril sword + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 108,
+            "name": "Mithril throwing axe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 109,
+            "name": "Mithril warhammer",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 110,
+            "name": "Mithril warhammer + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 240.0
+            }
+        },
+        {
+            "id": 111,
+            "name": "Mithril warhammer + 2",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 480.0
+            }
+        },
+        {
+            "id": 112,
+            "name": "Off-hand mithril knife",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 113,
+            "name": "Off-hand mithril throwing axe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 30.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 114,
+            "name": "Pack pig machine",
+            "isMember": true,
+            "skills": {
+                "Summoning": 84.0,
+                "Crafting": 84.0,
+                "Construction": 84.0
+            },
+            "experience": {
+                "Summoning": 0.0,
+                "Crafting": 1000.0,
+                "Construction": 1000.0
+            }
+        },
+        {
+            "id": 115,
+            "name": "Prayer pig machine",
+            "isMember": true,
+            "skills": {
+                "Summoning": 84.0,
+                "Crafting": 84.0,
+                "Construction": 84.0
+            },
+            "experience": {
+                "Summoning": 0.0,
+                "Crafting": 1000.0,
+                "Construction": 1000.0
+            }
+        },
+        {
+            "id": 116,
+            "name": "Silvthril chain",
+            "isMember": true,
+            "skills": {
+                "Crafting": 47.0
+            },
+            "experience": {
+                "Crafting": 100.0
+            }
+        },
+        {
+            "id": 117,
+            "name": "Silvthril limbs",
+            "isMember": true,
+            "skills": {
+                "Crafting": 70.0
+            },
+            "experience": {
+                "Crafting": 100.0
+            }
+        },
+        {
+            "id": 118,
+            "name": "Silvthril rod",
+            "isMember": true,
+            "skills": {
+                "Crafting": 25.0
+            },
+            "experience": {
+                "Crafting": 55.0
+            }
+        },
+        {
+            "id": 119,
+            "name": "War pig machine",
+            "isMember": true,
+            "skills": {
+                "Summoning": 84.0,
+                "Crafting": 84.0,
+                "Construction": 84.0
+            },
+            "experience": {
+                "Summoning": 0.0,
+                "Crafting": 1000.0,
+                "Construction": 1000.0
+            }
+        }
+    ],
+    "iron": [
+        {
+            "id": 1,
+            "name": "Concentrated alloy bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 99.0
+            },
+            "experience": {
+                "Smithing": 10.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Exit portal",
+            "isMember": true,
+            "skills": {
+                "Construction": 1.0
+            },
+            "experience": {
+                "Construction": 100.0
+            }
+        },
+        {
+            "id": 3,
+            "name": "Iron 2h sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 160.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Iron 2h sword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 160.0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Iron armoured boots",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 6,
+            "name": "Iron armoured boots + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Iron arrowheads",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Iron battleaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 9,
+            "name": "Iron battleaxe + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Iron bolts (unf)",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Iron chainbody",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 200.0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Iron chainbody + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 200.0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Iron claws",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Iron claws + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Iron dagger",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Iron dagger + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Iron dart tip",
+            "isMember": false,
+            "skills": {
+                "Smithing": 20.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Iron full helm",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Iron full helm + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Iron gauntlets",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Iron gauntlets + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Iron hasta",
+            "isMember": true,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 23,
+            "name": "Iron hatchet",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Iron ingot",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 4.0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Iron kiteshield",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Iron kiteshield + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 27,
+            "name": "Iron knife",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Iron limbs",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Iron longsword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Iron longsword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 31,
+            "name": "Iron mace",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 32,
+            "name": "Iron mace + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 33,
+            "name": "Iron mattock",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 34,
+            "name": "Iron med helm",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 35,
+            "name": "Iron med helm + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 36,
+            "name": "Iron minotaur pouch",
+            "isMember": true,
+            "skills": {
+                "Summoning": 46.0
+            },
+            "experience": {
+                "Summoning": 404.8
+            }
+        },
+        {
+            "id": 37,
+            "name": "Iron nails",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 38,
+            "name": "Iron off hand battleaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 39,
+            "name": "Iron off hand battleaxe + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 40,
+            "name": "Iron off hand claws",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 41,
+            "name": "Iron off hand claws + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 42,
+            "name": "Iron off hand dagger",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 43,
+            "name": "Iron off hand dagger + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 44,
+            "name": "Iron off hand longsword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 45,
+            "name": "Iron off hand longsword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 46,
+            "name": "Iron off hand mace",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 47,
+            "name": "Iron off hand mace + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 48,
+            "name": "Iron off hand scimitar",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 49,
+            "name": "Iron off hand scimitar + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 50,
+            "name": "Iron off hand sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 51,
+            "name": "Iron off hand sword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 52,
+            "name": "Iron off hand warhammer",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 53,
+            "name": "Iron off hand warhammer + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 54,
+            "name": "Iron ore box",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 55,
+            "name": "Iron pickaxe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 56,
+            "name": "Iron pickaxe + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 57,
+            "name": "Iron platebody",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 200.0
+            }
+        },
+        {
+            "id": 58,
+            "name": "Iron platebody + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 200.0
+            }
+        },
+        {
+            "id": 59,
+            "name": "Iron platelegs",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 60,
+            "name": "Iron platelegs + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 61,
+            "name": "Iron plateskirt",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 62,
+            "name": "Iron plateskirt + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 120.0
+            }
+        },
+        {
+            "id": 63,
+            "name": "Iron railings",
+            "isMember": true,
+            "skills": {
+                "Construction": 67.0
+            },
+            "experience": {
+                "Construction": 220.0
+            }
+        },
+        {
+            "id": 64,
+            "name": "Iron scimitar",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 65,
+            "name": "Iron scimitar + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 66,
+            "name": "Iron sheet",
+            "isMember": true,
+            "skills": {
+                "Smithing": 45.0
+            },
+            "experience": {}
+        },
+        {
+            "id": 67,
+            "name": "Iron spear",
+            "isMember": true,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 68,
+            "name": "Iron spit",
+            "isMember": true,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 40.0
+            }
+        },
+        {
+            "id": 69,
+            "name": "Iron square shield",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 70,
+            "name": "Iron square shield + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 71,
+            "name": "Iron sword",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 72,
+            "name": "Iron sword + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 73,
+            "name": "Iron throwing axe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 74,
+            "name": "Iron warhammer",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 75,
+            "name": "Iron warhammer + 1",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 80.0
+            }
+        },
+        {
+            "id": 76,
+            "name": "Lesser unensouled bar",
+            "isMember": true,
+            "skills": {
+                "Smithing": 1.0,
+                "Necromancy": 20.0
+            },
+            "experience": {
+                "Smithing": 1.0,
+                "Necromancy": 0.0
+            }
+        },
+        {
+            "id": 77,
+            "name": "Off-hand iron knife",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 78,
+            "name": "Off-hand iron throwing axe",
+            "isMember": false,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 79,
+            "name": "Oil lantern frame",
+            "isMember": true,
+            "skills": {
+                "Smithing": 10.0
+            },
+            "experience": {
+                "Smithing": 45.0
+            }
+        },
+        {
+            "id": 80,
+            "name": "Pack pig machine",
+            "isMember": true,
+            "skills": {
+                "Summoning": 14.0,
+                "Crafting": 14.0,
+                "Construction": 14.0
+            },
+            "experience": {
+                "Summoning": 0.0,
+                "Crafting": 0.0,
+                "Construction": 0.0
+            }
+        },
+        {
+            "id": 81,
+            "name": "Prayer pig machine",
+            "isMember": true,
+            "skills": {
+                "Summoning": 14.0,
+                "Crafting": 14.0,
+                "Construction": 14.0
+            },
+            "experience": {
+                "Summoning": 0.0,
+                "Crafting": 0.0,
+                "Construction": 0.0
+            }
+        },
+        {
+            "id": 82,
+            "name": "Sled",
+            "isMember": true,
+            "skills": {},
+            "experience": {}
+        },
+        {
+            "id": 83,
+            "name": "Sled",
+            "isMember": true,
+            "skills": {},
+            "experience": {}
+        },
+        {
+            "id": 84,
+            "name": "Twin anchors",
+            "isMember": true,
+            "skills": {
+                "Construction": 69.0
+            },
+            "experience": {
+                "Construction": 54.0
+            }
+        },
+        {
+            "id": 85,
+            "name": "War pig machine",
+            "isMember": true,
+            "skills": {
+                "Summoning": 14.0,
+                "Crafting": 14.0,
+                "Construction": 14.0
+            },
+            "experience": {
+                "Summoning": 0.0,
+                "Crafting": 0.0,
+                "Construction": 0.0
+            }
+        }
     ]
 }

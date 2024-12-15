@@ -1,134 +1,8 @@
-<template>
-  <div class="container grid grid-cols-3 grid-rows-1 h-full text-textColor">
-    <div
-      class="bg-blue h-full bg-slate-700 lg:w-96 overflow-auto order-1 shadow-md shadow-contrast hover:shadow-lg hover:shadow-contrast transition-shadow ease-in-out rounded-lg"
-    >
-      <div class="px-5 h-12 bg-primary">
-        <select
-          v-model="selected3"
-          @change="loadCategory(selected3)"
-          class="text-textColor block py-2.5 w-full placeholder-textColor bg-transparent border-0 border-b-2 border-gray-200 appearance-none focus:outline-none focus:ring-0 focus:border-gray-200 peer"
-        >
-          <option
-            v-if="!selected3"
-            value=""
-            disabled
-            selected
-            class="bg-primary"
-          >
-            Select category
-          </option>
-          <option
-            v-for="item in categories"
-            :key="item"
-            :value="item"
-            class="bg-primary"
-          >
-            {{ item }}
-          </option>
-        </select>
-      </div>
-      <div
-        class="lg:w-80 rounded-md text-textColor border-2 border-slate-700 list-none m-auto my-2"
-      >
-        <ul ref="todoList" class="kanban-column h-full">
-          <ListItem
-            v-for="item in todos"
-            :key="item.id"
-            :name="item.name"
-            :currentLevel="selected2"
-            :requiredLevel="item.skills['Smithing']"
-            v-model="item.amount"
-            :primaryList="true"
-          />
-        </ul>
-      </div>
-    </div>
-    <div
-      class="bg-blue h-full bg-slate-700 lg:w-96 overflow-auto order-2 shadow-md shadow-contrast hover:shadow-lg hover:shadow-contrast transition-shadow ease-in-out rounded-lg"
-    >
-      <div class="px-5 h-12 bg-primary">
-        <h1>Selected items</h1>
-      </div>
-      <div
-        class="lg:w-80 h-full rounded-md text-textColor border-2 border-slate-700 list-none m-auto my-2"
-      >
-        <ul ref="doneList" class="kanban-column h-full">
-          <ListItem
-            v-for="(item, key) in dones"
-            :key="key"
-            :name="item.name"
-            v-model="item.amount"
-            :currentLevel="selected2"
-            :requiredLevel="item.skills['Smithing']"
-            v-on:update:modelValue="updateValue()"
-            :primaryList="false"
-          />
-        </ul>
-      </div>
-    </div>
-    <div
-      class="bg-blue h-full bg-slate-700 lg:w-96 overflow-auto order-3 shadow-md shadow-contrast hover:shadow-lg hover:shadow-contrast transition-shadow ease-in-out rounded-lg"
-    >
-      <div class="px-5 h-12 bg-primary">
-        <h1>Options</h1>
-      </div>
-      <div class="text-textColor">
-        <p>Target Level</p>
-        <select
-          v-model="selected"
-          @change="changeTargetXP()"
-          class="w-16 bg-primary border-slate-700 border-2 rounded-md"
-        >
-          <option v-for="(item, key) in skillData" :key="key" :value="key">
-            {{ key }}
-          </option>
-        </select>
-        Target xp:
-        <input
-          id="target-xp-input"
-          type="number"
-          class="w-16 bg-primary border-slate-700 border-2 rounded-md"
-          v-model="targetXP"
-          @input="updateValue()"
-        />
-      </div>
-      <p>Current Level</p>
-      <select
-        v-model="selected2"
-        @change="changeTargetXP()"
-        class="w-16 bg-primary border-slate-700 border-2 rounded-md"
-      >
-        <option v-for="(item, key) in skillData" :key="key" :value="key">
-          {{ key }}
-        </option>
-      </select>
-      <div>
-        Mode
-        <!-- <div>
-          <input type="radio" id="huey" name="drone1" value="huey" checked />
-          <label for="huey">Huey</label>
-        </div>
-
-        <div>
-          <input type="radio" id="dewey" name="drone" value="dewey" />
-          <label for="dewey">Dewey</label>
-        </div>
-
-        <div>
-          <input type="radio" id="louie" name="drone" value="louie" />
-          <label for="louie">Louie</label>
-        </div> -->
-      </div>
-      <div>Materials</div>
-      <div>Profit</div>
-    </div>
-  </div>
-</template>
+<template>Hi</template>
 
 <script lang="ts" setup>
 import { Item } from "@/types/Item";
-// import { useRoute } from "vue-router";
+import { useRoute } from "vue-router";
 import { useDragAndDrop } from "@formkit/drag-and-drop/vue";
 import { state } from "@formkit/drag-and-drop";
 import { ref, defineComponent, Ref } from "vue";
@@ -145,8 +19,10 @@ const selected2 = ref(1);
 const selected3 = ref("");
 const doneItems: Ref<Item[]> = ref([]);
 const todoItems: Ref<Item[]> = ref([]);
-const categories = ["runite", "bronze"];
-
+const categories = Object.keys(jsonData);
+const routeData = useRoute();
+console.log(routeData);
+//TODO: Fix the ref
 const [todoList, todos] = useDragAndDrop<Item>(todoItems, {
   group: "todoList",
   sortable: false,
@@ -154,7 +30,7 @@ const [todoList, todos] = useDragAndDrop<Item>(todoItems, {
 const [doneList, dones] = useDragAndDrop<Item>(doneItems, {
   group: "todoList",
 });
-// loadCategory(Object.keys(jsonData)[0]);
+
 const test = ref(0);
 //TODO: Pop already existing items if needed
 function loadCategory(category: string) {
@@ -179,8 +55,6 @@ function loadCategory(category: string) {
 function testUpdateAmount() {
   clearAmounts();
   //TODO: add calculating level based on the XP gains
-  let imaginaryLevel = selected2.value;
-  let imaginaryXP = 0;
   remainingXP.value = targetXP.value;
   doneItems.value = _.orderBy(
     doneItems.value,
@@ -202,7 +76,6 @@ function testUpdateAmount() {
       if (remainingXP.value > doneItems.value[key].experience["Smithing"]) {
         doneItems.value[key].amount += 1;
         remainingXP.value -= doneItems.value[key].experience["Smithing"];
-        imaginaryXP += doneItems.value[key].experience["Smithing"];
         itemAdded = true;
       }
       if (
@@ -211,7 +84,6 @@ function testUpdateAmount() {
       ) {
         doneItems.value[key].amount += 1;
         remainingXP.value -= doneItems.value[key].experience["Smithing"];
-        imaginaryXP += doneItems.value[key].experience["Smithing"];
         break;
       }
     }
