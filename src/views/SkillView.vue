@@ -263,6 +263,7 @@ function updateValue() {
   switch (mode.value) {
     case CalculationMode.Basic:
       calculateBasic();
+      thisFunctionDoesNotExist
       break;
     default:
       testUpdateAmount();
